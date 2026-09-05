@@ -13,6 +13,4 @@ Não houve falha registrada no histórico (`git log --oneline` com 4 commits, se
 Nada a corrigir, pois não houve erro no caminho indicado pelo histórico.
 
 ## Ferramentas de IA
-Eu usei o agente OpenCode, modelo muse-spark-1.3-contributor-free, apenas nesta etapa final de leitura do `git log`, do `git diff --stat` e escrita deste relatório.
-
-O que faltou para eu completar a entrega?
+Eu usei o agente OpenCode, durante o desenvolvimento do projeto utilizei modelo Nemotrom 3.5, quanto ao modelo muse-spark-1.3-contributor-free, apenas nesta etapa final de leitura do `git log`, do `git diff --stat` e escrita deste relatório.
