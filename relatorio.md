@@ -14,3 +14,6 @@ Nada a corrigir, pois não houve erro no caminho indicado pelo histórico.
 
 ## Ferramentas de IA
 Eu usei o agente OpenCode, durante o desenvolvimento do projeto utilizei modelo Nemotrom 3.5, quanto ao modelo muse-spark-1.3-contributor-free, apenas nesta etapa final de leitura do `git log`, do `git diff --stat` e escrita deste relatório.
+
+## Repositorio do Projeto
+https://github.com/Salatielbg/tep_aula04.git
